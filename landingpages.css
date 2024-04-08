@@ -1,0 +1,35 @@
+*{
+    color: beige;
+}
+.head{
+    text-align: center;
+    font-style: oblique;
+}
+.prouducts{
+
+    margin-left: 110px;
+    margin-top: 250px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    padding: 29px;
+    border-radius:20px ;
+    border: 2px solid whitesmoke;
+    padding: 5px;
+    width: 300px;
+}
+.shop{
+    font-size: 20px;
+}
+.address{
+    font-size: 20px;
+}
+.footer{
+    font-size: 19px;
+    font-weight: 200;
+}
+.img{
+    display:block;
+}
